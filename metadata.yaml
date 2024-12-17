@@ -1,0 +1,29 @@
+_repo: Yolintu-b-Kuvauksia-menneilta-ajoilta_74859
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Talvio, Maila
+    alias: Mikkola, Maila Winter
+    birthdate: 1871
+    deathdate: 1951
+    gutenberg_agent_id: '39128'
+    url: http://www.gutenberg.org/2009/agents/39128
+    wikipedia: https://fi.wikipedia.org/wiki/Maila_Talvio
+description: ''
+gutenberg_issued: '2024-12-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74859'
+language: fi
+pgterms:marc905: 20180602052820talvio
+pgterms:marc906: '1913'
+pgterms:marc907: FI
+production_note: Juhani Kärkkäinen and Tapio Riikonen
+publication_note: '  $aPorvoo :$bWSOY, $c1913.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Yölintu : $b Kuvauksia menneiltä ajoilta'
+url: http://www.gutenberg.org/ebooks/74859
